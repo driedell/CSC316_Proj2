@@ -1,0 +1,4 @@
+D is H's parent
+W is T's nephew
+N is F's 1th cousin 1 times removed
+Level Order: D, H, Q, B, T, C, N, G, M, W, F, X, Z, R, P, 

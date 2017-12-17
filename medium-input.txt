@@ -1,0 +1,5 @@
+< D, H, B, G, M, W, F, T, X, Z, C, R, P, Q, N.
+> G, M, W, F, B, X, Z, T, R, P, C, H, N, Q, D.
+?  D, H.
+?  W, T.
+? N, F.
